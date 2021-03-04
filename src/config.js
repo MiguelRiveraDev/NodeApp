@@ -6,5 +6,5 @@ module.exports = {
         password: process.env.DATABASE_PASSWORD || 'cQd86h9tkViX6D2sOasL',
         database: process.env.DATABASE_NAME || 'b8vnwp5fcbgk0g0vrj1y'
     },
-    port: process.env.PORT || 4000
+    port: process.env.PORT || 8080
 };
